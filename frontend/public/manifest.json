@@ -1,0 +1,46 @@
+{
+  "name": "SmartHub Global",
+  "short_name": "SmartHub",
+  "description": "All-in-one super app: invoicing, AI content, bio-link storefront, local services, QR codes, AI pitches, gamer hub, and network tools.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "categories": ["business", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Invoices",
+      "short_name": "Invoices",
+      "url": "/?m=invoicing",
+      "description": "Create invoices and quotes"
+    },
+    {
+      "name": "AI Repurposer",
+      "short_name": "Repurposer",
+      "url": "/?m=vidipesa",
+      "description": "Turn notes into social scripts"
+    },
+    {
+      "name": "Gamer Hub",
+      "short_name": "Gamer Hub",
+      "url": "/?m=gamer",
+      "description": "Daily challenges and rewards"
+    },
+    {
+      "name": "Network Tools",
+      "short_name": "Network",
+      "url": "/?m=network",
+      "description": "Speed test, ping, and DNS setup"
+    }
+  ]
+}
