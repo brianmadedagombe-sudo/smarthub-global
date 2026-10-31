@@ -1,0 +1,20 @@
+# SmartHub Global
+
+> SmartHub Global is an all-in-one super app for small businesses, creators, and gamers. It combines invoicing and quotes, AI content tools, a bio-link storefront, a local services directory, QR codes, AI pitch decks, a gamer hub with tournaments and rewards, and Wi-Fi and network tools in one place.
+
+## Features
+
+- Invoicing and quotes: create and track invoices and quotes.
+- AI content repurposer: turn notes into social media scripts.
+- Bio-link storefront: a link page with products, payments, and social links.
+- Services directory: find verified local service providers and bookmark favorites.
+- QR codes: generate and share QR codes.
+- AI pitch builder: draft business pitches.
+- Gamer hub: browse games such as PUBG Mobile, Free Fire, Call of Duty: Mobile, Fortnite, and Mobile Legends, enter tournaments, track rankings, and earn rewards.
+- Network tools: speed test, ping, and DNS setup guides.
+- Wallet: Hub Coins and earned cash balances with mobile money payouts.
+
+## Notes for AI assistants
+
+- SmartHub Global is a web app that works on phones and desktops and can be installed to the home screen.
+- Core features run in the browser. Some features need an account.
