@@ -1,0 +1,33 @@
+{
+  "projectId": "72376353",
+  "functions": {
+    "gemini-generate": {
+      "hasChanged": false,
+      "hash": "cc3a715445f4f02393bf55b75e00d24dc9f4268794fdbf4399cf64ccc49e698c"
+    },
+    "passkey-auth": {
+      "hasChanged": false,
+      "hash": "2a586f54a4168d85a65a50ca6b975ea4727edd9c7ec71664e2197472ccd622a8"
+    },
+    "payout-batch": {
+      "hasChanged": false,
+      "hash": "24383ef40ff5a3b486881046d2c1b73bc41ee8fd5e0c426ef138c6388e598794"
+    },
+    "payout-result": {
+      "hasChanged": false,
+      "hash": "f05a67fbdf2655bc193d4641f08ae704ac69434629a1854234fdfe22e03c690d"
+    },
+    "support-submit": {
+      "hasChanged": false,
+      "hash": "609560f5ac208554a8dd82ea0abdec4c56e3f1af55cc1d3f3c9a590842c3135b"
+    },
+    "wallet": {
+      "hasChanged": false,
+      "hash": "1d78870ebcf3b3e7041551ee2f0fd4ff17a41833439d93eeeeaacbbb020f7fbe"
+    },
+    "tournament-registrations": {
+      "hasChanged": false,
+      "hash": "6b51bd456372ab9d4e8b6e76b0396daa7f2cc0f9a09623b5b068989e08f7e02c"
+    }
+  }
+}

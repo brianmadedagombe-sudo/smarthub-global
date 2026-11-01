@@ -1,0 +1,20 @@
+[functions.gemini-generate]
+verify_jwt = false
+
+[functions.support-submit]
+verify_jwt = false
+
+[functions.wallet]
+verify_jwt = false
+
+[functions.passkey-auth]
+verify_jwt = false
+
+[functions.payout-batch]
+verify_jwt = false
+
+[functions.payout-result]
+verify_jwt = false
+
+[functions.tournament-registrations]
+verify_jwt = false
